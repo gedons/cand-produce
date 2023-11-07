@@ -21,7 +21,7 @@
                           <a class="page-scroll" href="#about">About</a>
                         </li>
                         <li>
-                          <a class="page-scroll" href="https://forms.gle/oVAZ9hpkyjRgaAzj8" target="_blank">Apply Now</a>
+                          <a class="page-scroll" href="https://forms.gle/povMpsRdsJNWqLGE8" target="_blank">Apply Now</a>
                         </li>
                       </ul>
                     </div>
@@ -30,7 +30,7 @@
                   
                   
                 <div class="header-btn hidden sm:block sm:absolute sm:right-0 sm:mr-16 lg:static lg:mr-0">
-                  <a class="text-green-600 border border-green-600 px-10 py-3 rounded-full duration-300 hover:bg-green-600 hover:text-white" target="_blank" href="https://forms.gle/oVAZ9hpkyjRgaAzj8">Apply</a>
+                  <a class="text-green-600 border border-green-600 px-10 py-3 rounded-full duration-300 hover:bg-green-600 hover:text-white" target="_blank" href="https://forms.gle/povMpsRdsJNWqLGE8">Apply</a>
                 </div>
             </nav>
         </div>
@@ -48,7 +48,7 @@
               <p class="-mt-6 text-2xl leading-snug">Fresh Produce Everyday</p> <br/>               
               <div class="text-center mb-10 wow fadeInUp" data-wow-delay="1.2s">
                 <p class="mb-8 text-3xl leading-snug">Application is open. Click on the link below to apply</p> <br/>  
-                <a href="https://forms.gle/oVAZ9hpkyjRgaAzj8" target="_blank"
+                <a href="https://forms.gle/povMpsRdsJNWqLGE8" target="_blank"
                   rel="nofollow"
                   class="btn bg-green-600 hover:bg-green-500">Apply Now</a>
               </div>
