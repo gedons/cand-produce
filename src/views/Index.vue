@@ -48,7 +48,7 @@
               <p class="-mt-6 text-2xl leading-snug">Fresh Produce Everyday</p> <br/>               
               <div class="text-center mb-10 wow fadeInUp" data-wow-delay="1.2s">
                 <p class="mb-8 text-3xl leading-snug">Application is open. Click on the link below to apply</p> <br/>  
-                <a href="https://forms.gle/D8y6L6qjK1XGRrR16" target="_blank"
+                <a href="https://forms.gle/oVAZ9hpkyjRgaAzj8" target="_blank"
                   rel="nofollow"
                   class="btn bg-green-600 hover:bg-green-500">Apply Now</a>
               </div>
